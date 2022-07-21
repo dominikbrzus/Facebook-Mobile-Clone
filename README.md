@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# About About Facebook Mobile
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with React, TypeScript, SCSS. I have created only fronted layer. 
+The main layers: Navbar, Reels and Wall.
+The App uses API with random users. Currently only four types of post are avaliable. 
+If you want to see Facebook Mobile App you have to reduce screen width to 576px.
 
 ## Available Scripts
 
